@@ -223,6 +223,18 @@ https://localhost:7260/Movies/Edit/7
 
 2139
 Starting part10
+verified all process
+
+06-06-2024
+1430
+Created account github repository
+https://github.com/kadeejakizhakeyil/MvcMovie.git
+
+1446
+I edited the seeddata file to add 5 new items
+
+
+
 
 
 

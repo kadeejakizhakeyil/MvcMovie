@@ -22,40 +22,49 @@ public static class SeedData
             context.Movie.AddRange(
                 new Movie
                 {
-                    Title = "When Harry Met Sally",
-                    ReleaseDate = DateTime.Parse("1989-2-12"),
-                    Genre = "Romantic Comedy",
-                    Price = 7.99M,
+                    Title = "The Shawshank Redemption",
+                    ReleaseDate = DateTime.Parse("1994-9-10"),
+                    Genre = "Drama",
+                    Price = 25M,
                     Rating = "R"
 
                 },
                 new Movie
                 {
-                    Title = "Ghostbusters ",
-                    ReleaseDate = DateTime.Parse("1984-3-13"),
-                    Genre = "Comedy",
-                    Price = 8.99M,
+                    Title = "The Godfather ",
+                    ReleaseDate = DateTime.Parse("1972-3-24"),
+                    Genre = "Crime",
+                    Price = 6M,
                     Rating = "R"
 
                 },
                 new Movie
                 {
-                    Title = "Ghostbusters 2",
-                    ReleaseDate = DateTime.Parse("1986-2-23"),
-                    Genre = "Comedy",
-                    Price = 9.99M,
+                    Title = "The Dark Knight",
+                    ReleaseDate = DateTime.Parse("2008-7-18"),
+                    Genre = "Action",
+                    Price = 185M,
                     Rating = "R"
                     
                 },
                 new Movie
                 {
-                    Title = "Rio Bravo",
-                    ReleaseDate = DateTime.Parse("1959-4-15"),
-                    Genre = "Western",
-                    Price = 3.99M,
+                    Title = "Schindler's List",
+                    ReleaseDate = DateTime.Parse("1993-12-15"),
+                    Genre = "Biography",
+                    Price = 22M,
                     Rating = "R"
 
-                }
+                },
+                 new Movie
+                 {
+                     Title = "Pulp Fiction",
+                     ReleaseDate = DateTime.Parse("1994-10-14"),
+                     Genre = "Crime",
+                     Price = 8M,
+                     Rating = "R"
+
+                 }
             );
             context.SaveChanges();
         }

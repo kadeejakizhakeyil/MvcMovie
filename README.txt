@@ -236,6 +236,11 @@ Ran the program, Confirmed the changes works:
 The URL to confirm
 https://localhost:7260/Movies
 
+1518
+Done With MVCMovie
+Total duration to complete this MVCMovie application: 4 Hours
+
+
 
 
 

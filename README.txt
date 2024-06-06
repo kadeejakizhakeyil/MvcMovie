@@ -114,7 +114,7 @@ Use the scaffolding tool to produce Create, Read, Update, and Delete (CRUD) page
 Confirmed the pages and methods created(A movies controller:MoviesController.cs; View Pages: Create, Delete, Details, Edit, and Index; database context class: Data/MvcMovieContext.cs)
 
 
-2024/21/05
+2024-05-21
 1537
 Add Migrations feature to create the database
 Examine the generated database connection string in appsettings.json file
@@ -128,7 +128,7 @@ https://localhost:7260/Movies/Edit/1
 https://localhost:7260/Movies/Delete/6
 https://localhost:7260/Movies/Details/1
 
-2024/23/05
+2024-05-23
 1440
 Starting part5
 Examine the database by opening SQL Server Object Explorer (SSOX).
@@ -145,15 +145,15 @@ Ran the program, Confirmed the changes works:
 The URL to confirm
 https://localhost:7260/movies/
 
-2024/24/05
+2024-05-24
 2353
 Checked client-side validation rules on the fields. 
 submited the form with empty fields.
 An error message is displayed and the form isn't posted
 
-2024/25/05
-Starting part7
+2024-05-25
 0000
+Starting part7
 Adding search capability to the Index action method that lets to search movies by name.
 Update the Index method found inside Controllers/MoviesController.cs
 Ran the program, Confirmed the changes works:
@@ -225,7 +225,7 @@ https://localhost:7260/Movies/Edit/7
 Starting part10
 Examined and verified all the steps
 
-06-06-2024
+2024-06-06
 1430
 Created account github repository
 Get credentials for the github Account

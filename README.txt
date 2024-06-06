@@ -223,18 +223,27 @@ https://localhost:7260/Movies/Edit/7
 
 2139
 Starting part10
-verified all process
+Examined and verified all the steps
 
 06-06-2024
 1430
 Created account github repository
+Get credentials for the github Account
 https://github.com/kadeejakizhakeyil/MvcMovie.git
+
+1435
+Cretaed clone repository for MVCMovie which is created in local system
+
 
 1446
 I edited the seeddata file to add 5 new items
 Ran the program, Confirmed the changes works:
 The URL to confirm
 https://localhost:7260/Movies
+
+1450
+Committed the file which is updated
+
 
 1518
 Done With MVCMovie

@@ -232,6 +232,9 @@ https://github.com/kadeejakizhakeyil/MvcMovie.git
 
 1446
 I edited the seeddata file to add 5 new items
+Ran the program, Confirmed the changes works:
+The URL to confirm
+https://localhost:7260/Movies
 
 
 
